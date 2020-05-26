@@ -814,10 +814,13 @@
   .dropbtn1{
     top: -470px;
     left: 3%;
+      opacity:1;
   }
+  
   .dropbtn2{
     top: -470px;
     left: 6%;
+      opacity:1;
   }
   .mouse{
     top: -1120px;
@@ -1021,7 +1024,7 @@
 
   .lastfoot p{
     font-size: 11px;
-    left: 27px;
+    left: 37px;
   }
 }
 
