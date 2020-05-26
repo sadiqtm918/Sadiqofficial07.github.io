@@ -255,6 +255,7 @@
     left: 160px;
     margin-right: 500px;
     font-size: 18px;
+    justify-content: center;
     color: rgb(250, 250, 250);
     font-family: 'Nova Slim', cursive;
     text-indent: 40px;
