@@ -780,39 +780,48 @@
 }
 
 
-@media screen and (max-width:700px){
+@media screen and (max-width:600px){
 
 
   .face img{
       top: -720px;
       left: 28%;
+      width: 150px;
+      height: 160px;
+  }
+  .face img:hover{
+    width: 150px;
+    height: 160px;
   }
 
   .line1{
-    top: -730px;
-    left: 50px;
+    top: -680px;
+    left: 20px;
   }
   .header h2{
     top: -300px;
+    left: 40px;
   }
   .header h3{
     top: -340px;
+    left: 40px;
   }
   .headaname h1{
     top: -335px;
+    left: 40px;
   }
   
   .dropbtn1{
-    top: -500px;
-    left: 10%;
+    top: -470px;
+    left: 8%;
   }
   .dropbtn2{
-    top: -500px;
-    left: 25%;
+    top: -470px;
+    left: 17%;
   }
   .mouse{
-    top: -800px;
-    left: 350px;
+    top: -740px;
+    left: 280px;
   }
 
 
@@ -822,7 +831,7 @@
     font-size: 25px;
   }
   .box h2{
-    left: 70px;
+    left: 30px;
     font-size: 100px;
   }
   .inner-boxin img{
@@ -846,10 +855,10 @@
   }
   .key1{
     left: 120px;
-    width: 300px;
+    width: 200px;
   }
   .wyt1{
-    width: 290px;
+    width: 190px;
     animation: key1 3.7s ease;
   }
   @keyframes key1{
@@ -857,7 +866,7 @@
       width:0px;
     }
     100%{
-      width:290px;
+      width:190px;
     }
   }
   .key1 h3{
@@ -866,7 +875,7 @@
   }
   .key1 h2{
     top: -25px;
-    left: 315px;
+    left: 215px;
     font-size: 13px;
   }
 
@@ -874,10 +883,10 @@
 
   .key2{
     left: 120px;
-    width: 300px;
+    width: 200px;
   }
   .wyt2{
-    width: 285px;
+    width: 185px;
     animation: key2 3.7s ease;
   }
   @keyframes key2{
@@ -885,7 +894,7 @@
       width:0px;
     }
     100%{
-      width:285px;
+      width:185px;
     }
   }
   .key2 h4{
@@ -894,16 +903,16 @@
   }
   .key2 h2{
     top: -25px;
-    left: 315px;
+    left: 215px;
     font-size: 13px;
   }
 
   .key3{
     left: 120px;
-    width: 300px;
+    width: 200px;
   }
   .wyt3{
-    width: 130px;
+    width: 80px;
     animation: key3 3.7s ease;
   }
   @keyframes key3{
@@ -911,7 +920,7 @@
       width:0px;
     }
     100%{
-      width:130px;
+      width:80px;
     }
   }
   .key3 h5{
@@ -920,16 +929,16 @@
   }
   .key3 h2{
     top: -25px;
-    left: 315px;
+    left: 215px;
     font-size: 13px;
   }
 
   .key4{
     left: 120px;
-    width: 300px;
+    width: 200px;
   }
   .wyt4{
-    width: 190px;
+    width: 120px;
     animation: key4 3.7s ease;
   }
   @keyframes key4{
@@ -937,7 +946,7 @@
       width:0px;
     }
     100%{
-      width:190px;
+      width:120px;
     }
   }
   .key4 h6{
@@ -946,13 +955,13 @@
   }
   .key4 h2{
     top: -25px;
-    left: 315px;
+    left: 215px;
     font-size: 13px;
   }
   .key4 h1{
     font-size: 90px;
     top: -430px;
-    left: 20px;
+    left: -80px;
   }
 
 .footbox{
@@ -967,8 +976,11 @@
 }
 .footbox h4{
   top: 80px;
-  left: 70px;
+  left: 30px;
   font-size: 80px;
+}
+.location{
+  left: 100px;
 }
 .location h2{
   left: 80px;
@@ -976,7 +988,7 @@
 }
 .phone{
   top: 70px;
-  left: 130px;
+  left: 100px;
 }
 .phone h2{
   left: 100px;
@@ -987,7 +999,7 @@
 }
 .E-mail{
   top: 100px;
-  left: 130px;
+  left: 100px;
 }
 .E-mail h2{
   left: 90px;
@@ -997,7 +1009,7 @@
 
   .social{
     top: 130px;
-    left: 130px;
+    left: 100px;
   }
   .footer18 i{
     left: 100px;
@@ -1005,7 +1017,7 @@
 
   .lastfoot p{
     font-size: 11px;
-    left: 30%;
+    justify-content: center;
   }
 }
 
