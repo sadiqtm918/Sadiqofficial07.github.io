@@ -813,11 +813,11 @@
   
   .dropbtn1{
     top: -470px;
-    left: 8%;
+    left: 3%;
   }
   .dropbtn2{
     top: -470px;
-    left: 17%;
+    left: 6%;
   }
   .mouse{
     top: -740px;
@@ -831,7 +831,7 @@
     font-size: 25px;
   }
   .box h2{
-    left: 30px;
+    left: 10px;
     font-size: 100px;
   }
   .inner-boxin img{
@@ -855,10 +855,10 @@
   }
   .key1{
     left: 120px;
-    width: 200px;
+    width: 190px;
   }
   .wyt1{
-    width: 190px;
+    width: 180px;
     animation: key1 3.7s ease;
   }
   @keyframes key1{
@@ -866,7 +866,7 @@
       width:0px;
     }
     100%{
-      width:190px;
+      width:180px;
     }
   }
   .key1 h3{
@@ -875,7 +875,7 @@
   }
   .key1 h2{
     top: -25px;
-    left: 215px;
+    left: 200px;
     font-size: 13px;
   }
 
@@ -883,10 +883,10 @@
 
   .key2{
     left: 120px;
-    width: 200px;
+    width: 190px;
   }
   .wyt2{
-    width: 185px;
+    width: 175px;
     animation: key2 3.7s ease;
   }
   @keyframes key2{
@@ -894,7 +894,7 @@
       width:0px;
     }
     100%{
-      width:185px;
+      width:175px;
     }
   }
   .key2 h4{
@@ -903,16 +903,16 @@
   }
   .key2 h2{
     top: -25px;
-    left: 215px;
+    left: 200px;
     font-size: 13px;
   }
 
   .key3{
     left: 120px;
-    width: 200px;
+    width: 190px;
   }
   .wyt3{
-    width: 80px;
+    width: 70px;
     animation: key3 3.7s ease;
   }
   @keyframes key3{
@@ -926,19 +926,20 @@
   .key3 h5{
     font-size: 13px;
     left: -80px;
+    top: -10px;
   }
   .key3 h2{
     top: -25px;
-    left: 215px;
+    left: 200px;
     font-size: 13px;
   }
 
   .key4{
     left: 120px;
-    width: 200px;
+    width: 190px;
   }
   .wyt4{
-    width: 120px;
+    width: 110px;
     animation: key4 3.7s ease;
   }
   @keyframes key4{
@@ -952,16 +953,17 @@
   .key4 h6{
     font-size: 12px;
     left: -110px;
+    top: -10px;
   }
   .key4 h2{
     top: -25px;
-    left: 215px;
+    left: 200px;
     font-size: 13px;
   }
   .key4 h1{
     font-size: 90px;
     top: -430px;
-    left: -80px;
+    left: -110px;
   }
 
 .footbox{
@@ -976,11 +978,11 @@
 }
 .footbox h4{
   top: 80px;
-  left: 30px;
+  left: 10px;
   font-size: 80px;
 }
 .location{
-  left: 100px;
+  left: 45px;
 }
 .location h2{
   left: 80px;
@@ -988,7 +990,7 @@
 }
 .phone{
   top: 70px;
-  left: 100px;
+  left: 45px;
 }
 .phone h2{
   left: 100px;
@@ -999,7 +1001,7 @@
 }
 .E-mail{
   top: 100px;
-  left: 100px;
+  left: 45px;
 }
 .E-mail h2{
   left: 90px;
@@ -1009,7 +1011,7 @@
 
   .social{
     top: 130px;
-    left: 100px;
+    left: 45px;
   }
   .footer18 i{
     left: 100px;
@@ -1017,10 +1019,9 @@
 
   .lastfoot p{
     font-size: 11px;
-    justify-content: center;
+    left: 40px;
   }
 }
-
 
 
 
