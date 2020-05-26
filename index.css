@@ -784,7 +784,7 @@
 
 
   .face img{
-      top: -720px;
+      top: -660px;
       left: 28%;
       width: 150px;
       height: 160px;
@@ -820,8 +820,10 @@
     left: 6%;
   }
   .mouse{
-    top: -740px;
-    left: 280px;
+    top: -1120px;
+    left: 310px;
+    width:25px;
+    height: 50px;
   }
 
 
@@ -832,7 +834,7 @@
   }
   .box h2{
     left: 10px;
-    font-size: 100px;
+    font-size: 90px;
   }
   .inner-boxin img{
     top: 80px;
@@ -875,8 +877,8 @@
   }
   .key1 h2{
     top: -25px;
-    left: 200px;
-    font-size: 13px;
+    left: 195px;
+    font-size: 10px;
   }
 
  
@@ -903,8 +905,8 @@
   }
   .key2 h2{
     top: -25px;
-    left: 200px;
-    font-size: 13px;
+    left: 195px;
+    font-size: 10px;
   }
 
   .key3{
@@ -930,8 +932,8 @@
   }
   .key3 h2{
     top: -25px;
-    left: 200px;
-    font-size: 13px;
+    left: 195px;
+    font-size: 10px;
   }
 
   .key4{
@@ -957,11 +959,11 @@
   }
   .key4 h2{
     top: -25px;
-    left: 200px;
-    font-size: 13px;
+    left: 195px;
+    font-size: 10px;
   }
   .key4 h1{
-    font-size: 90px;
+    font-size: 80px;
     top: -430px;
     left: -110px;
   }
@@ -979,7 +981,7 @@
 .footbox h4{
   top: 80px;
   left: 10px;
-  font-size: 80px;
+  font-size: 70px;
 }
 .location{
   left: 45px;
@@ -1019,7 +1021,7 @@
 
   .lastfoot p{
     font-size: 11px;
-    left: 40px;
+    left: 27px;
   }
 }
 
